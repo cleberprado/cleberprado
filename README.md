@@ -27,6 +27,6 @@ Here are some ideas to get you started:
     <img  height="30" width="40" align="center" alt="BOOTSTRAP"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
      <img  height="30" width="40" align="center" alt="JqueryP"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
  
-  
+   ![Snake animation](https://github.com/cleberprado/cleberprado/blob/output/github-contribution-grid-snake.svg)
 </div>
    
