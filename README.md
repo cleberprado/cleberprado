@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Ola! eu sou a Cleber Prado, estudante de Fullstack!
+## Ola! eu sou o Cleber Prado, estudante de Fullstack!
 <div align="center">
   <a href="https://github.com/cleberprado">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cleberprado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
