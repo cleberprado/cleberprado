@@ -27,7 +27,9 @@ Here are some ideas to get you started:
   <img  height="30" width="40" align="center" alt="BOOTSTRAP"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img  height="30" width="40" align="center" alt="JqueryP"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="30" width="40" src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png" />
+         
 ![Snake animation](https://github.com/cleberprado/cleberprado/blob/output/github-contribution-grid-snake.svg)
 </div>
    
